@@ -17,7 +17,7 @@
 #
 #Script Requires Posh-SSH to be installed for upload!
 #
-#Expected File Structure:
+#Expected File Structure (put this entire "Pearson" folder into your C:\Scrips folder)
 # C:\Scripts\Pearson (Contains PearsonBuilder.ps1, Cognose download Script [called PearsonDownloader.ps1], and PearsonSync.bat)
 #                    > Edited for Import
 #                           > TXT
