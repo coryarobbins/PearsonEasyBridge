@@ -1,0 +1,1 @@
+native_section_code,school_code,date_start,date_end,school_year,course_number,course_name,section_name,section_number

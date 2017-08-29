@@ -1,0 +1,90 @@
+school_code,course_number,course_name,sectionName1,Section,YearSub,Year
+60,200310,Kindergarten Math,Kindergarten Math,1,2017,2018
+60,200310,Kindergarten Math,Kindergarten Math,2,2017,2018
+60,200310,Kindergarten Math,Kindergarten Math,3,2017,2018
+60,200310,Kindergarten Math,Kindergarten Math,4,2017,2018
+60,211310,1st Math,1st Math,1,2017,2018
+60,211310,1st Math,1st Math,2,2017,2018
+60,211310,1st Math,1st Math,3,2017,2018
+60,222310,2nd Math,2nd Math,1,2017,2018
+60,222310,2nd Math,2nd Math,3,2017,2018
+60,222310,2nd Math,2nd Math,4,2017,2018
+60,233310,3rd Math,3rd Math,2,2017,2018
+60,233310,3rd Math,3rd Math,3,2017,2018
+60,233310,3rd Math,3rd Math,4,2017,2018
+60,244310,4th Math,4th Math,1,2017,2018
+60,244310,4th Math,4th Math,2,2017,2018
+60,244310,4th Math,4th Math,3,2017,2018
+60,244310,4th Math,4th Math,4,2017,2018
+61,355310,Math 5,Math 5,1,2017,2018
+61,355310,Math 5,Math 5,2,2017,2018
+61,355310,Math 5,Math 5,3,2017,2018
+61,355310,Math 5,Math 5,4,2017,2018
+61,366310,Math 6,Math 6,1,2017,2018
+61,366310,Math 6,Math 6,2,2017,2018
+61,366310,Math 6,Math 6,3,2017,2018
+61,366310,Math 6,Math 6,4,2017,2018
+61,377310,Math 7,Math 7,1,2017,2018
+61,377310,Math 7,Math 7,2,2017,2018
+61,377310,Math 7,Math 7,3,2017,2018
+61,377311,Pre AP Math 7,Pre AP Math 7,1,2017,2018
+61,37731P,Pre AP Math 7 PLA,Pre AP Math 7 PLA,1,2017,2018
+61,37731R,Math 7 PLA,Math 7 PLA,2,2017,2018
+61,37731R,Math 7 PLA,Math 7 PLA,3,2017,2018
+61,388310,Math 8,Math 8,1,2017,2018
+61,388310,Math 8,Math 8,2,2017,2018
+61,388310,Math 8,Math 8,3,2017,2018
+61,38831R,Math 8 PLA,Math 8 PLA,1,2017,2018
+61,38831R,Math 8 PLA,Math 8 PLA,2,2017,2018
+61,38831R,Math 8 PLA,Math 8 PLA,3,2017,2018
+61,430000,Algebra I,Algebra I,1,2017,2018
+61,972305,Math 5,Math 5,1,2017,2018
+61,972305,Math 5,Math 5,2,2017,2018
+61,972306,Math 6,Math 6,1,2017,2018
+61,972306,Math 6,Math 6,2,2017,2018
+61,972306,Math 6,Math 6,3,2017,2018
+61,972307,Math 7,Math 7,1,2017,2018
+61,972307,Math 7,Math 7,3,2017,2018
+61,972308,Math 8,Math 8,1,2017,2018
+61,972308,Math 8,Math 8,2,2017,2018
+61,972356,Math 6,Math 6,1,2017,2018
+61,972357,Math 7,Math 7,1,2017,2018
+61,972358,Math 8,Math 8,1,2017,2018
+62,430000,Algebra I,Algebra I,1,2017,2018
+62,430000,Algebra I,Algebra I,2,2017,2018
+62,430000,Algebra I,Algebra I,3,2017,2018
+62,430000,Algebra I,Algebra I,4,2017,2018
+62,43000P,PAP Algebra I - PLA,PAP Algebra I - PLA,1,2017,2018
+62,43000R,Algebra I - PLA,Algebra I - PLA,1,2017,2018
+62,431000,Geometry,Geometry,1,2017,2018
+62,431000,Geometry,Geometry,2,2017,2018
+62,431000,Geometry,Geometry,3,2017,2018
+62,43100P,PAP Geometry - PLA,PAP Geometry - PLA,1,2017,2018
+62,43100R,Geometry - PLA,Geometry - PLA,1,2017,2018
+62,43100R,Geometry - PLA,Geometry - PLA,2,2017,2018
+62,432000,Algebra II,Algebra II,1,2017,2018
+62,432000,Algebra II,Algebra II,2,2017,2018
+62,432000,Algebra II,Algebra II,3,2017,2018
+62,432000,Algebra II,Algebra II,4,2017,2018
+62,43200P,PAP Algebra II - PLA,PAP Algebra II - PLA,1,2017,2018
+62,43200P,PAP Algebra II - PLA,PAP Algebra II - PLA,2,2017,2018
+62,43200R,Algebra II - PLA,Algebra II - PLA,1,2017,2018
+62,433000,Precal/Trig,Precal/Trig,1,2017,2018
+62,435000,Bridge To Alg II,Bridge To Alg II,1,2017,2018
+62,439070,Algebra III,Algebra III,1,2017,2018
+62,439070,Algebra III,Algebra III,2,2017,2018
+62,534040,AP Calculus,AP Calculus,1,2017,2018
+62,539900,College Algebra,College Algebra,1,2017,2018
+62,539900,College Algebra,College Algebra,6,2017,2018
+62,539900,College Algebra,College Algebra,8,2017,2018
+62,539900,College Algebra,College Algebra,9,2017,2018
+62,539900,College Algebra,College Algebra,11,2017,2018
+62,539900,College Algebra,College Algebra,12,2017,2018
+62,539900,College Algebra,College Algebra,14,2017,2018
+62,539901,College Algebra,College Algebra,3,2017,2018
+62,539901,College Algebra,College Algebra,6,2017,2018
+62,539901,College Algebra,College Algebra,8,2017,2018
+62,972300,Math 9-12,Math 9-12,1,2017,2018
+62,972300,Math 9-12,Math 9-12,2,2017,2018
+62,972300,Math 9-12,Math 9-12,3,2017,2018
+62,972300,Math 9-12,Math 9-12,4,2017,2018

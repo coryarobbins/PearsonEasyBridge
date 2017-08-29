@@ -1,0 +1,1 @@
+native_assignment_code,staff_code,school_year,institution_code,date_start,date_end,position_code

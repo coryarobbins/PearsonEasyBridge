@@ -1,0 +1,1 @@
+section_teacher_code,staff_code,native_section_code,date_start,date_end,school_year,teacher_of_record,teaching_assignment

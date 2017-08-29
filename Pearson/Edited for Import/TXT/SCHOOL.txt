@@ -1,0 +1,1 @@
+school_code,school_name,district_code,grade_start,grade_end,address_1,address_2,city,state,zip,phone
